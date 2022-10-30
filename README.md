@@ -1,4 +1,4 @@
-# IMEI Masker [Xposed]
+# IMEI Masker
 
 Utility To Mask IMEI Of Device.
 
